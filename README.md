@@ -2,7 +2,7 @@
 
 <!-- [![@ttarczynski's Holopin board](https://holopin.me/ttarczynski)](https://holopin.io/@ttarczynski) -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarczynskitomek&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Tomasz Tarczyński's Account](https://github-readme-stats.vercel.app/api?username=tarczynskitomek&show_icons=true)](https://github.com/tarczynskitomek)
 
 <!--
 **tarczynskitomek/tarczynskitomek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
